@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:"Ubuntu", sans-serif;
+}
+ul , ol{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+#clrgen{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#clrgen button{
+    padding: 10px;
+    border: 0;
+    border-radius: 10px;
+    
+}
